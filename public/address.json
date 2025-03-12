@@ -1,0 +1,490 @@
+{
+  "USA": [
+    {
+      "name": "California's Great America",
+      "id": 57,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Carowinds",
+      "id": 59,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Cedar Point",
+      "id": 50,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Dorney Park",
+      "id": 69,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Kings Dominion",
+      "id": 62,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Kings Island",
+      "id": 60,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Knott's Berry Farm",
+      "id": 61,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Michigan's Adventure",
+      "id": 70,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Valleyfair",
+      "id": 68,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Worlds of Fun",
+      "id": 63,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "Dollywood",
+      "id": 55,
+      "company": "Herschend Family Entertainment"
+    },
+    {
+      "name": "Silver Dollar City",
+      "id": 10,
+      "company": "Herschend Family Entertainment"
+    },
+    {
+      "name": "Legoland California",
+      "id": 279,
+      "company": "Merlin Entertainments"
+    },
+    {
+      "name": "Legoland Florida",
+      "id": 280,
+      "company": "Merlin Entertainments"
+    },
+    {
+      "name": "Legoland New York",
+      "id": 299,
+      "company": "Merlin Entertainments"
+    },
+    {
+      "name": "Peppa Pig Theme Park Florida",
+      "id": 316,
+      "company": "Merlin Entertainments"
+    },
+    {
+      "name": "Adventure Island",
+      "id": 97,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Aquatica Orlando",
+      "id": 94,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Aquatica San Antonio",
+      "id": 306,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Busch Gardens Tampa",
+      "id": 24,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Busch Gardens Williamsburg",
+      "id": 23,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Discovery Cove Orlando",
+      "id": 308,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Seaworld Orlando",
+      "id": 21,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Seaworld San Antonio",
+      "id": 22,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Seaworld San Diego",
+      "id": 20,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Sesame Place",
+      "id": 29,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Water Country USA",
+      "id": 96,
+      "company": "SeaWorld Parks & Entertainment"
+    },
+    {
+      "name": "Frontier City",
+      "id": 282,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags America",
+      "id": 42,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Darien Lake",
+      "id": 281,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Discovery Kingdom",
+      "id": 33,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Fiesta Texas",
+      "id": 39,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Great Adventure",
+      "id": 37,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Great America",
+      "id": 38,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Great Escape",
+      "id": 45,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor New Jersey",
+      "id": 44,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Arlington",
+      "id": 40,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Concord",
+      "id": 293,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Los Angeles",
+      "id": 41,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Oklahoma City",
+      "id": 294,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Phoenix",
+      "id": 295,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, Rockford",
+      "id": 297,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Hurricane Harbor, SplashTown",
+      "id": 296,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Magic Mountain",
+      "id": 32,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags New England",
+      "id": 43,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Over Georgia",
+      "id": 35,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Over Texas",
+      "id": 34,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags St. Louis",
+      "id": 36,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags White Water, Atlanta",
+      "id": 46,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Islands Of Adventure At Universal Orlando",
+      "id": 64,
+      "company": "Universal Parks & Resorts"
+    },
+    {
+      "name": "Universal Studios At Universal Orlando",
+      "id": 65,
+      "company": "Universal Parks & Resorts"
+    },
+    {
+      "name": "Universal Studios Hollywood",
+      "id": 66,
+      "company": "Universal Parks & Resorts"
+    },
+    {
+      "name": "Universal Volcano Bay",
+      "id": 67,
+      "company": "Universal Parks & Resorts"
+    },
+    { "name": "Animal Kingdom", "id": 8, "company": "Walt Disney Attractions" },
+    {
+      "name": "Disney California Adventure",
+      "id": 17,
+      "company": "Walt Disney Attractions"
+    },
+    {
+      "name": "Disney Hollywood Studios",
+      "id": 7,
+      "company": "Walt Disney Attractions"
+    },
+    {
+      "name": "Disney Magic Kingdom",
+      "id": 6,
+      "company": "Walt Disney Attractions"
+    },
+    { "name": "Disneyland", "id": 16, "company": "Walt Disney Attractions" },
+    { "name": "Epcot", "id": 5, "company": "Walt Disney Attractions" },
+    {
+      "name": "Adventureland Resort",
+      "id": 324,
+      "company": "Parques Reunidos"
+    },
+    { "name": "Kennywood", "id": 312, "company": "Parques Reunidos" },
+    { "name": "Lake Compounce", "id": 313, "company": "Parques Reunidos" },
+    { "name": "Hersheypark", "id": 15, "company": "Other" },
+    { "name": "Knoebels", "id": 314, "company": "Other" }
+  ],
+  "Canada": [
+    {
+      "name": "Canada's Wonderland",
+      "id": 58,
+      "company": "Cedar Fair Entertainment Company"
+    },
+    {
+      "name": "La Ronde, Montreal",
+      "id": 48,
+      "company": "Six Flags Entertainment Corporation"
+    }
+  ],
+  "China": [
+    { "name": "Chimelong Birds Park", "id": 331, "company": "Chimelong Group" },
+    {
+      "name": "Chimelong Ocean Kingdom",
+      "id": 123,
+      "company": "Chimelong Group"
+    },
+    { "name": "Chimelong Paradise", "id": 130, "company": "Chimelong Group" },
+    {
+      "name": "Chimelong Safari Park",
+      "id": 330,
+      "company": "Chimelong Group"
+    },
+    { "name": "Chimelong Spaceship", "id": 332, "company": "Chimelong Group" },
+    { "name": "Chimelong Water Park", "id": 139, "company": "Chimelong Group" },
+    {
+      "name": "Universal Studios Beijing",
+      "id": 328,
+      "company": "Universal Parks & Resorts"
+    },
+    {
+      "name": "Shanghai Disney Resort",
+      "id": 30,
+      "company": "Walt Disney Attractions"
+    }
+  ],
+  "France": [
+    { "name": "Futuroscope", "id": 291, "company": "Compagnie des Alpes" },
+    { "name": "Parc Astérix", "id": 9, "company": "Compagnie des Alpes" },
+    {
+      "name": "Walibi Rhône-Alpes",
+      "id": 301,
+      "company": "Compagnie des Alpes"
+    },
+    { "name": "Le Pal", "id": 303, "company": "Other" },
+    { "name": "Le Parc du Petit Prince", "id": 327, "company": "Other" },
+    { "name": "PanoraMagique", "id": 320, "company": "Other" },
+    { "name": "Vulcania", "id": 304, "company": "Other" },
+    {
+      "name": "Disneyland Park Paris",
+      "id": 4,
+      "company": "Walt Disney Attractions"
+    },
+    {
+      "name": "Walt Disney Studios Paris",
+      "id": 28,
+      "company": "Walt Disney Attractions"
+    }
+  ],
+  "Belgium": [
+    { "name": "Bellewaerde", "id": 276, "company": "Compagnie des Alpes" },
+    { "name": "Walibi Belgium", "id": 14, "company": "Compagnie des Alpes" },
+    { "name": "Bobbejaanland", "id": 311, "company": "Parques Reunidos" },
+    { "name": "Plopsaland De Panne", "id": 54, "company": "Plopsa" }
+  ],
+  "Netherlands": [
+    { "name": "Familypark", "id": 322, "company": "Compagnie des Alpes" },
+    { "name": "Walibi Holland", "id": 53, "company": "Compagnie des Alpes" },
+    {
+      "name": "Avonturenpark Hellendoorn",
+      "id": 323,
+      "company": "Looping Group"
+    },
+    { "name": "Efteling", "id": 160, "company": "Other" },
+    { "name": "Toverland", "id": 305, "company": "Other" }
+  ],
+  "Germany": [
+    { "name": "Europa Park", "id": 51, "company": "Europa-Park" },
+    { "name": "Rulantica", "id": 309, "company": "Europa-Park" },
+    { "name": "Heide Park", "id": 25, "company": "Merlin Entertainments" },
+    {
+      "name": "Legoland Deutschland",
+      "id": 278,
+      "company": "Merlin Entertainments"
+    },
+    { "name": "Hansa Park", "id": 286, "company": "Other" },
+    { "name": "Phantasialand", "id": 56, "company": "Other" },
+    { "name": "Movie Park Germany", "id": 310, "company": "Parques Reunidos" },
+    { "name": "Holiday Park", "id": 302, "company": "Plopsa" }
+  ],
+  "UK": [
+    { "name": "Alton Towers", "id": 1, "company": "Merlin Entertainments" },
+    {
+      "name": "Chessington World of Adventures",
+      "id": 3,
+      "company": "Merlin Entertainments"
+    },
+    {
+      "name": "Legoland Windsor",
+      "id": 27,
+      "company": "Merlin Entertainments"
+    },
+    { "name": "Thorpe Park", "id": 2, "company": "Merlin Entertainments" },
+    { "name": "Blackpool Pleasure Beach", "id": 273, "company": "Other" },
+    { "name": "Paultons Park", "id": 49, "company": "Other" },
+    { "name": "British Museum", "id": 326, "company": "UK National Museums" },
+    {
+      "name": "Natural History Museum",
+      "id": 325,
+      "company": "UK National Museums"
+    }
+  ],
+  "Italy": [
+    { "name": "Gardaland", "id": 12, "company": "Merlin Entertainments" },
+    { "name": "Cinecittà World", "id": 318, "company": "Other" }
+  ],
+  "Denmark": [
+    {
+      "name": "Legoland Billund",
+      "id": 52,
+      "company": "Merlin Entertainments"
+    },
+    { "name": "Djurs Sommerland", "id": 290, "company": "Other" },
+    { "name": "Fårup Sommerland", "id": 18, "company": "Other" }
+  ],
+  "Brazil": [{ "name": "Beto Carrero World", "id": 319, "company": "Other" }],
+  "Poland": [{ "name": "Energylandia", "id": 317, "company": "Other" }],
+  "Sweden": [
+    { "name": "Grona Lund", "id": 166, "company": "Other" },
+    { "name": "Liseberg", "id": 11, "company": "Other" }
+  ],
+  "Spain": [
+    {
+      "name": "Parque de Atracciones Madrid",
+      "id": 321,
+      "company": "Parques Reunidos"
+    },
+    {
+      "name": "Parque Warner Madrid",
+      "id": 298,
+      "company": "Parques Reunidos"
+    },
+    { "name": "Ferrari Land", "id": 277, "company": "PortAventura World" },
+    { "name": "PortAventura Park", "id": 19, "company": "PortAventura World" }
+  ],
+  "South Korea": [
+    { "name": "Legoland Korea", "id": 315, "company": "Merlin Entertainments" },
+    {
+      "name": "Caribbean Bay",
+      "id": 329,
+      "company": "Samsung C&T Corporation"
+    },
+    { "name": "Everland", "id": 125, "company": "Samsung C&T Corporation" },
+    { "name": "Lotte World", "id": 333, "company": "Other" }
+  ],
+  "Mexico": [
+    {
+      "name": "Six Flags Hurricane Harbor, Oaxtepec",
+      "id": 292,
+      "company": "Six Flags Entertainment Corporation"
+    },
+    {
+      "name": "Six Flags Mexico",
+      "id": 47,
+      "company": "Six Flags Entertainment Corporation"
+    }
+  ],
+  "Hong Kong": [
+    {
+      "name": "Disneyland Hong Kong",
+      "id": 31,
+      "company": "Walt Disney Attractions"
+    }
+  ],
+  "Japan": [
+    { "name": "Legoland Japan", "id": 285, "company": "Merlin Entertainments" },
+    {
+      "name": "Universal Studios Japan",
+      "id": 284,
+      "company": "Universal Parks & Resorts"
+    },
+    {
+      "name": "Tokyo Disneyland",
+      "id": 274,
+      "company": "Walt Disney Attractions"
+    },
+    {
+      "name": "Tokyo DisneySea",
+      "id": 275,
+      "company": "Walt Disney Attractions"
+    }
+  ]
+}
